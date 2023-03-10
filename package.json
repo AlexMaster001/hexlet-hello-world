@@ -1,0 +1,23 @@
+{
+  "name": "hexlet-hello-world",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "My first work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Kirsanov",
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexMaster001/hexlet-js.git"
+  },
+  "keywords": [
+    "Project"
+  ],
+  "bugs": {
+    "url": "https://github.com/AlexMaster001/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/AlexMaster001/hexlet-js#readme"
+}
